@@ -26,4 +26,4 @@ jobs:
         run: docker build -t rezaul0168/shopnow-client:v1 shopnow-client/
 
       - name: docker push
-        run: docker push shopnow-client:v1
+        run: docker push rezaul0168/shopnow-client:v1
