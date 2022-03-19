@@ -49,4 +49,4 @@ Open your chrome (preferable) or other browser.
 And visit `https://localhost:3000/`
 
 You can see the below output:
-![output image!](/assets-readme/output.PNG)
+![output image!](https://github.com/MDRezaulHasan/shopnow-app/blob/main/assets-readme/output.png)
