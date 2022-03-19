@@ -15,4 +15,15 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+
+      - name: docker version
       - run: docker --version
+
+      - name: dockerhub login
+      - run: docker login
+
+      - name: docker build
+      - run: docker build -t rezaul0168/shopnow-client:v1 shopnow-client/
+
+      - name: docker push
+      - run: docker push shopnow-client:v1
