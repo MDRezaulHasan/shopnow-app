@@ -26,6 +26,9 @@ run
 
 `git clone https://github.com/MDRezaulHasan/shopnow-app.git`
 
+Going into project folder
+`cd shopnow-client`
+
 #### Secound - step
 
 Installing npm packages.
